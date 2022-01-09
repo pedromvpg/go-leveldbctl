@@ -27,7 +27,7 @@ bar
 
 ```sh
 $ export GO111MODULE=on
-$ go get github.com/yuuichi-fujioka/go-leveldbctl/cmd/leveldbctl
+$ go install github.com/yuuichi-fujioka/go-leveldbctl/cmd/leveldbctl@latest
 ```
 
 ## Usage
